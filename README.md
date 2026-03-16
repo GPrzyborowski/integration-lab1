@@ -1,5 +1,5 @@
 # SHA-256 Generator - integracja systemów informatycznych lab 1
-**Celem laboratorium jest zapoznanie się z podstawami systemu kontroli wersji git oraz konfiguracja środowiska projektowego - w tym przypadku dla technologii Node.js**
+**Celem laboratorium jest zapoznanie się z podstawami systemu kontroli wersji git oraz konfiguracja środowiska projektowego - w tym przypadku dla technologii Node.js z biblioteką Express.**
 
 ## Wymagania
 * zainstalowany system kontroli wersji git
