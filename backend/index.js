@@ -6,7 +6,7 @@ const app = express();
 const PORT = 3000;
 
 app.get('/', (req, res) => {
-  res.send('Backend 'nie' działa');
+  res.send('Backend działa');
 });
 
 app.get("/api/health", (req, res) => {
